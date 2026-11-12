@@ -5,6 +5,7 @@
 - I recently completed my internship in web development.
 - I'm currently looking for entry-level opportunities as a **Web Developer or Software Developer**.
 
+
 ### Languages and Tools
 
 **Frontend Development**
@@ -16,30 +17,21 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
 </p>
 
-**Backend & Programming**
+**Backend & Database**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
-</p>
-
-**Database**
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
 </p>
 
-**Development Tools & Environment**
+**Development Tools & Testing**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
-</p>
-
-**Testing & Automation**
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40" height="40"/>
 </p>
+
