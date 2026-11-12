@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Ming Sheng
 
-<!--
-**sawms292/sawms292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Technology (Software Engineering) | UUM
 
-Here are some ideas to get you started:
+- I recently completed my internship in web development.
+- I'm currently looking for entry-level opportunities as a **Web Developer or Software Developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+**Frontend Development**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/>
+</p>
+
+**Backend & Programming**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
+</p>
+
+**Database**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+</p>
+
+**Development Tools & Environment**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/>
+</p>
+
+**Testing & Automation**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" width="40" height="40"/>
+</p>
